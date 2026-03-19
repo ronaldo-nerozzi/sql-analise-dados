@@ -51,7 +51,7 @@ Consultas sobre dados públicos de fundos de investimento da CVM (Comissão de V
 
 ## 📬 Contato
 
-[![Email](https://img.shields.io/badge/Email-ronynerozziofficial@gmail.com-red?style=flat&logo=gmail)](mailto:ronynerozziofficial@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ronynerozziofficial@gmail.com-red?style=flat&logo=gmail)](mailto:ronaldopersecerance@gmail.com)
 
 ---
 
